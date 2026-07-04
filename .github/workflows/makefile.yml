@@ -18,7 +18,7 @@ jobs:
           kernel-url: https://github.com/techyminati/selene
           kernel-dir: msm-4.14
           kernel-branch: eleven
-          config: haps_hs_defconfig
+          config: mtk6873_defconfig
           arch: arm64
           aosp-gcc: true
           aosp-clang: true
